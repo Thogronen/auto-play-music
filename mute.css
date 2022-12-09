@@ -1,0 +1,6 @@
+button {
+    background-image: url("images/pause.svg");
+    background-size: cover;
+    width: 7em;
+    height: 5em;
+}
